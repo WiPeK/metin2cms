@@ -1,0 +1,18 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-05-12 14:42:51 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:42:52 --> Session: The session cookie was not signed.
+ERROR - 2015-05-12 14:43:08 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:16 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:17 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:30 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:34 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:39 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:41 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:52 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:43:56 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:44:01 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:48:09 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:48:10 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73
+ERROR - 2015-05-12 14:48:13 --> Severity: 8192  --> mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead E:\xampp\htdocs\metin\system\database\drivers\mysql\mysql_driver.php 73

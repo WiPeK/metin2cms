@@ -1,0 +1,1 @@
+<?php echo $cmscfg->shop_describe; ?>

@@ -1,0 +1,38 @@
+a:3:{s:4:"time";i:1484831533;s:3:"ttl";i:3600;s:4:"data";a:4:{i:0;O:8:"stdClass":9:{s:2:"id";s:1:"8";s:5:"title";s:11:"Demo strony";s:7:"pubdate";s:10:"2015-06-11";s:4:"body";s:46:"<p>login: ethoard</p>
+
+<p>hasło: 123456</p>";s:7:"created";s:19:"2015-06-11 21:06:27";s:8:"modified";s:19:"2015-06-11 21:06:27";s:10:"created_by";s:7:"Ethoard";s:11:"modified_by";s:0:"";s:5:"views";s:1:"0";}i:1;O:8:"stdClass":9:{s:2:"id";s:1:"5";s:5:"title";s:12:"Test article";s:7:"pubdate";s:10:"2015-02-27";s:4:"body";s:648:"<div class="row">
+<div class="col-lg-6">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry&#39;s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</div>
+
+<div class="col-lg-6"><img src="http://localhost/metin/public_html/assets/gallery/2644a349144e36eafa2a55d694b530ae.png" style="height: 173px; width: 200px;" />
+<div class="clearfix">&nbsp;</div>
+<img src="http://localhost/metin/public_html/assets/gallery/4a1a4d9d86263b488e886b9deeee37cf.png" style="height: 112px; width: 200px;" /></div>
+</div>";s:7:"created";s:19:"2015-02-27 14:25:48";s:8:"modified";s:19:"2015-02-27 14:26:34";s:10:"created_by";s:7:"Ethoard";s:11:"modified_by";s:7:"Ethoard";s:5:"views";s:1:"0";}i:2;O:8:"stdClass":9:{s:2:"id";s:1:"4";s:5:"title";s:15:"Jutro event zuo";s:7:"pubdate";s:10:"2015-02-20";s:4:"body";s:5173:"<table border="0" cellpadding="1" cellspacing="1" style="width: 500px;">
+	<tbody>
+		<tr>
+			<td><span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">(Bonus! Bonus! Bonus! Bonus! Bonus! Bonus!)</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Na łazarskim rejonie nie jest kolorowo</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">czasem zapija się smutki i bywa czilałtowo</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Na łazarskim rejonie, bieda tutaj piszczy</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">nie ma co się martwić, musisz podnieść się ze zgliszczy</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Tutaj pierwsza miłości i rozczarowanie</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">za stracony czas i porytą banię</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Wyciągnąłem wnioski, nigdy nie ufaj kobiecie</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Zamąci ci w głowie, wok&oacute;ł palca oplecie</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Czasami bywam na Wildzie, u ziomka na kwadracie</span></td>
+			<td><span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Obalamy flaszki, potem leżymy na macie</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Środkowy palec wbijam w hejter&oacute;w</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Coś ci się nie podoba, lepiej tego mi nie m&oacute;w</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Trenowałem MMA i futbol amerykański</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Teraz zajmuję się boksem w klubie poznańskim</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Adrenalina , to jest to co lubię</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">Nie bądź taki kozak, bo cię szybko ukr&oacute;cę</span><br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<br style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;" />
+			<span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;">(Jestem najlepszy w chuj, w chuj, w chuj)</span></td>
+		</tr>
+	</tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><span style="color: rgb(102, 102, 102); font-family: Tahoma; font-size: 11.5px; line-height: 15px;"><img alt="" src="http://localhost/metin/public_html/assets/gallery/e2a9a0b3587e48bd9e73721765f55cf2.png" style="width: 200px; height: 207px;" /><img alt="" src="http://localhost/metin/public_html/assets/gallery/6fb1da707f7f2d2681d164a4d9cb4202.png" style="width: 200px; height: 83px;" /></span></p>";s:7:"created";s:19:"2015-02-20 18:10:16";s:8:"modified";s:19:"2015-03-01 15:31:31";s:10:"created_by";s:7:"Ethoard";s:11:"modified_by";s:7:"Ethoard";s:5:"views";s:1:"0";}i:3;O:8:"stdClass":9:{s:2:"id";s:1:"3";s:5:"title";s:26:"Oficjalny start 01-03-2015";s:7:"pubdate";s:10:"2015-02-01";s:4:"body";s:27:"<p>vfebrgtwbrtbrthbrthb</p>";s:7:"created";s:19:"2015-02-01 20:33:06";s:8:"modified";s:19:"2015-03-01 15:31:56";s:10:"created_by";s:7:"Ethoard";s:11:"modified_by";s:7:"Ethoard";s:5:"views";s:1:"0";}}}

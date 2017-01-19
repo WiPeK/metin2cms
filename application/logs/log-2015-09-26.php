@@ -1,0 +1,9 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-09-26 08:08:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/metin2cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-09-26 08:08:07 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/metin2cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-09-26 21:08:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/metin2cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-09-26 21:08:32 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/metin2cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-09-26 22:53:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/metin2cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-09-26 23:05:13 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/metin2cms/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2015-09-26 23:21:53 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /home/wipekpl/domains/wipek.pl/public_html/metin2cms/system/database/drivers/mysql/mysql_driver.php 91

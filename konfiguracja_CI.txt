@@ -1,0 +1,134 @@
+1. Konfiguracja bazy danych w production
+2. Dodanie pól do db
+3. Itemy czasowe w zależności od serwera
+4. Szablon wysyłanych wiadomości
+
+Pola:
+account.account
+mods => varchar[10]
+last_web_login => datetime
+activation_key => varchar[100]
+remind_key => varchar[100]
+
+cała baza web
+
+wyłącz błędy
+
+[spoiler][/spoiler]Witam
+Mam do zaoferowania mój autorski System zarządzania treścią CMS stworzony do obsługi Metin2.
+Stworzony został w oparciu o Framework PHP - Codeigniter w strukturze MVC (Model - View - Controller).
+Dzięki zastosowaniu Frameworku posiadamy dodatkowe zabezpieczenia przed atakami SQL Injection, xss czy też  crsf.
+ 
+Funkcje panelu administratora:
+[spoiler]
+1. Strona główna panelu ze statystykami zakupów przedmiotów
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/242231425917431403780.png]
+[/spoiler]
+2. Aktualności
+-dodawanie / usuwanie / edycja nowych aktualności / newsów przy pomocy edytora WYSIWYG CKEditor
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/371391425917794403780.png]
+[img=http://www.mpcforum.pl/uploads/images/500191425917794403780.png]
+[/spoiler]
+3. Dodawanie / edytowanie / usuwanie / blokowanie / odblokowywanie / blokowanie na ip kont użytkowników
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/936051425917994403780.png]
+[img=http://www.mpcforum.pl/uploads/images/472891425917994403780.png]
+[/spoiler]
+4. Edycja / usuwanie postaci
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/387741425918177403780.png]
+[img=http://www.mpcforum.pl/uploads/images/614491425918177403780.png]
+[/spoiler]
+5. Zarządzanie sklepem - możemy dodawać kategorie, przedmioty i pakiety VIP (exp, drop, złoto) oraz ich edycja i usuwanie
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/312611425918524403780.png]
+[img=http://www.mpcforum.pl/uploads/images/961121425918524403780.png]
+[img=http://www.mpcforum.pl/uploads/images/478821425918524403780.png]
+[img=http://www.mpcforum.pl/uploads/images/512761425918524403780.png]
+[img=http://www.mpcforum.pl/uploads/images/389031425918524403780.png]
+[/spoiler]
+6. Galeria - dodawanie i usuwanie zdjęć
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/826521425918848403780.png]
+[/spoiler]
+7. Uploadowanie plików
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/817321425918919403780.png]
+[/spoiler]
+8. Dodawanie linków do clienta - wyświetlane na stronie pobierz
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/675901425919057403780.png]
+[/spoiler]
+9. Edycja bonusów z poziomu panelu
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/440031425919224403780.png]
+[img=http://www.mpcforum.pl/uploads/images/928051425919224403780.png]
+[/spoiler]
+10. Wiadomość globalna - wysyłana do wszystkich zarejestrowanych użytkowników
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/654631425919334403780.png]
+[/spoiler]
+11. Support - odpowiedź wysyłana na email
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/147761425919475403780.png]
+[img=http://www.mpcforum.pl/uploads/images/264441425919475403780.png]
+[img=http://www.mpcforum.pl/uploads/images/515621425919475403780.png]
+[img=http://www.mpcforum.pl/uploads/images/175281425919475403780.png]
+[/spoiler]
+12. Ustawienia
+- nazwa serwera / strony
+- ikona strony
+- status rejestracji
+- status logowania
+- status sklepu
+- logo
+- link do facebook'a
+- link do forum
+- adres ts3
+- opis serwera
+- opis zawartości (do metatagów)
+- słowa kluczowe
+- regulamin serwera
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/531111425919746403780.png]
+[/spoiler]
+13. Logi
+-logi działań w panelu administratora
+-logi zakupów w sklepie
+-logi zakupów pakietów VIP
+-logi zakupów monet
+-logi logowań na strone / przypomnień haseł / zmian haseł, kodu usunięcia postaci, email (zmiana raz na 24h)
+-logi komend GM
+[spoiler]
+[img=http://www.mpcforum.pl/uploads/images/703101425919997403780.png]
+[img=http://www.mpcforum.pl/uploads/images/502781425919997403780.png]
+[img=http://www.mpcforum.pl/uploads/images/528151425919997403780.png]
+[img=http://www.mpcforum.pl/uploads/images/414241425919997403780.png]
+[img=http://www.mpcforum.pl/uploads/images/168921425919997403780.png]
+[img=http://www.mpcforum.pl/uploads/images/355741425919997403780.png]
+[/spoiler]
+[/spoiler]
+
+
+Front:
+Nie będę pokazywał screenów ponieważ nie kodowałem grafiki, mija się to z celem gdyż każdy serwer ma inny layout.
+A co do kilku funkcjonalności frontu:
+Rejestracja - z potwierdzeniem email.
+Zmiana email raz na 24h.
+Każda zmiana hasła / kodu usunięcia / emaila itd z potwierdzeniem email.
+Galeria - Blueimp Bootstrap 3.
+
+Wyświetlanie przedmiotów postaci:
+[spoiler][img=http://www.mpcforum.pl/uploads/images/698771425920705403780.png][/spoiler]
+
+Sklep posiada podpięte api sms premium dotpay / platnosci-online. Możliwość podpięcia innego jeżeli jest dostępne.
+
+Edycja poszczególnych elementów lub napisanie nowych funkcjonalności wykonam pod konkretny serwer. 
+
+Nie wykonuje layoutów strony lecz mogę pocięte już zakodować.
+
+Wszelkie pytania proszę kierować na email: wipekxxx@gmail.com
+
+Dziękuje za poświęcenie czasu na przeczytanie mojej oferty i zapraszam do współpracy.

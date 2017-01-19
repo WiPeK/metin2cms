@@ -1,0 +1,32 @@
+<?php  if ( ! defined('BASEPATH')) exit('No direct script access allowed'); ?>
+
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$name /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 6
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$job /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 12
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$job /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 19
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$skill_group /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 19
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$playtime /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 22
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$level /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 25
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$exp /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 28
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$gold /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 31
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$ht /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 35
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$iq /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 36
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$st /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 37
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$dx /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 38
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$alignment /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 41
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$last_play /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 44
+ERROR - 2015-07-12 21:52:59 --> Severity: Notice  --> Undefined property: stdClass::$horse_level /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 47
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$name /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 6
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$job /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 12
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$job /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 19
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$skill_group /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 19
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$playtime /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 22
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$level /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 25
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$exp /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 28
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$gold /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 31
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$ht /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 35
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$iq /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 36
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$st /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 37
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$dx /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 38
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$alignment /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 41
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$last_play /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 44
+ERROR - 2015-07-12 21:53:10 --> Severity: Notice  --> Undefined property: stdClass::$horse_level /home/wipekpl/domains/wipek.pl/public_html/metin2cms/application/views/user/char_profile.php 47
