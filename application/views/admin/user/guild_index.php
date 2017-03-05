@@ -61,7 +61,7 @@
 						</td>
 						<td>
 							<?php
-								$query = $this->db->query("SELECT name FROM player.player WHERE id='$guild->master'");
+								$query = $this->db->query("SELECT name FROM player WHERE id='$guild->master'");
 								echo $query->row('name');
 							?>
 						</td>
