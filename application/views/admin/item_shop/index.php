@@ -42,7 +42,7 @@
 						<td>
 							<?php 
 							  	$cat_id = (int) $item->category_id;
-							  	$query = $this->db->query("SELECT id,category FROM web.shop_category where id='$cat_id'"); 
+							  	$query = $this->db->query("SELECT id,category FROM shop_category where id='$cat_id'"); 
 							?>
 							<?php if((int) $query->row('id') > 0): ?>
 								<div class="btn-group">
