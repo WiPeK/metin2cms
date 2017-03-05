@@ -26,7 +26,7 @@ class Manage_files extends Admin_Controller {
 
 		if($this->input->post('upload'))
 		{
-			$this->file_path = realpath(APPPATH . '../assets/uploaded_files/');
+			$this->file_path = 'assets/uploaded_files/';
 
 			$config['upload_path'] = $this->file_path;
 			$config['max_size'] = 1000000;
@@ -69,7 +69,7 @@ class Manage_files extends Admin_Controller {
 		$title = base64_decode(urldecode($file_title));
 		$this->files_m->delete_file($title);
 		//usuwanie z folderu
-		unlink(realpath(APPPATH . '../assets/uploaded_files/') . '/' . $title); 
+		unlink('assets/uploaded_files/' . $title); 
 
 		$this->logs_m->log_delete_file($file_title);
 		redirect('admin/manage_files');
