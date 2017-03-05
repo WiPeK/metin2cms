@@ -35,7 +35,7 @@ class Gallery extends Admin_Controller {
 		{
 
 			//folder zapisu obrazków
-			$this->gallery_path = realpath(APPPATH . '../public_html/assets/gallery/');
+			$this->gallery_path = 'assets/gallery/';
 			
 			$config = array(
 				'upload_path' => $this->gallery_path,
@@ -99,8 +99,8 @@ class Gallery extends Admin_Controller {
 	{
 		$title = base64_decode(urldecode($titleh));
 		$data = $this->gallery_m->get_img_urls($title);
-		unlink(realpath(APPPATH . '../public_html/' . $data[0]->img_url));
-		unlink(realpath(APPPATH . '../public_html/' . $data[0]->thumb_url));
+		unlink($data[0]->img_url);
+		unlink($data[0]->thumb_url);
 		//usuwanie z db
 		$this->gallery_m->delete_image($title);
 		//usuwanie z folderu
